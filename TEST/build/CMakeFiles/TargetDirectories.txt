@@ -1,0 +1,3 @@
+/home/lio/桌面/CMakePractice/TEST/build/CMakeFiles/hello.dir
+/home/lio/桌面/CMakePractice/TEST/build/CMakeFiles/edit_cache.dir
+/home/lio/桌面/CMakePractice/TEST/build/CMakeFiles/rebuild_cache.dir

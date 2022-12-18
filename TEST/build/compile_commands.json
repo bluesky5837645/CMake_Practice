@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lio/桌面/CMakePractice/TEST/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/hello.dir/main.c.o -c /home/lio/桌面/CMakePractice/TEST/main.c",
+  "file": "/home/lio/桌面/CMakePractice/TEST/main.c"
+}
+]
